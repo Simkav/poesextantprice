@@ -1,0 +1,12 @@
+{
+  "name": "poesextantprice",
+  "version": "0.0.1",
+  "description": "Tool for get actual data about poe sextant",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "simkav2411@gmail.com",
+  "license": "ISC"
+}
